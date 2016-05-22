@@ -1,4 +1,4 @@
-package HTMLNode
+package golang_htmlnode
 
 import "github.com/andybalholm/cascadia"
 import "golang.org/x/net/html"
